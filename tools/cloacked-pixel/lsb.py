@@ -1,3 +1,4 @@
+#!/bin/python2
 import sys
 import struct
 import numpy
