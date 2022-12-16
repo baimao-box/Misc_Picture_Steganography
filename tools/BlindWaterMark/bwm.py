@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/python2
 # -*- coding: utf8 -*-
 
 import sys
