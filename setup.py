@@ -11,6 +11,7 @@ def mkdir():
 try:
     os.system("chmod 777 install.sh")
     os.system("./install.sh")
+    os.system("pip2 install -r requirements.txt")
     print("\033[1;31;40mTools and modules installed successfully\033[0m")
 except:
     print("\033[1;31;40mInstallation failed\033[0m")
