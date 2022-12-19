@@ -1,5 +1,6 @@
 sudo apt update
 sudo apt install foremost
+apt-get install imagemagick
 sudo apt install binwalk
 sudo apt install exiftool
 sudo apt-get install python-tk
