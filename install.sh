@@ -12,3 +12,4 @@ sudo python2 get-pip.py
 sudo pip2 install pillow
 sudo pip2 install matplotlib
 sudo pip2 install numpy
+sudo pip2 install opencv-python
